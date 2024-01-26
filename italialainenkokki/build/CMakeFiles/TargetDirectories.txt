@@ -1,0 +1,7 @@
+C:/Users/jusse/Documents/QT harjoitukset/italialainenkokki/build/CMakeFiles/italialainenkokki.dir
+C:/Users/jusse/Documents/QT harjoitukset/italialainenkokki/build/CMakeFiles/edit_cache.dir
+C:/Users/jusse/Documents/QT harjoitukset/italialainenkokki/build/CMakeFiles/rebuild_cache.dir
+C:/Users/jusse/Documents/QT harjoitukset/italialainenkokki/build/CMakeFiles/list_install_components.dir
+C:/Users/jusse/Documents/QT harjoitukset/italialainenkokki/build/CMakeFiles/install.dir
+C:/Users/jusse/Documents/QT harjoitukset/italialainenkokki/build/CMakeFiles/install/local.dir
+C:/Users/jusse/Documents/QT harjoitukset/italialainenkokki/build/CMakeFiles/install/strip.dir
